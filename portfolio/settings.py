@@ -25,7 +25,7 @@ SECRET_KEY = 'tau&c37l09_%buoex7=w#8fms%01z-b0r192+948x_wm$%-bjx'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['sapan.pythonanywhere.com']
 
 
 # Application definition
